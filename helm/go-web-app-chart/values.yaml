@@ -1,0 +1,8 @@
+replicaCount: 1
+
+image:
+  repository: rahulnr050/go-web-app
+  tag: "v1"
+
+ingress:
+  host: go-web-app.local

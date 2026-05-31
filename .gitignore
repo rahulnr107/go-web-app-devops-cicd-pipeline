@@ -1,0 +1,30 @@
+# Go build artifacts
+go-web-app
+main
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Go test artifacts
+*.test
+*.out
+coverage.out
+
+# Environment files
+.env
+
+# IDE files
+.vscode/
+.idea/
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Helm generated files
+*.tgz
+
+# Logs
+*.log
