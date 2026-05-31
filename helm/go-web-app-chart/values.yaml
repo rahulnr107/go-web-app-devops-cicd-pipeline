@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: rahulnr050/go-web-app
-  tag: "v1"
+  tag: "26714290864"
 
 ingress:
   host: go-web-app.local
