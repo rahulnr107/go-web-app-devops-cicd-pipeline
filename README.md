@@ -299,11 +299,11 @@ GitHub Repository → Actions
 
 ### GitHub Actions Pipeline
 
-![GitHub Actions Pipeline](screenshots/Screenshot%(202).png)
+![GitHub Actions Pipeline](screenshots/s1.png)
 
 ### Workflow Execution
 
-![Workflow Execution](screenshots/Screenshot%(203).png)
+![Workflow Execution](screenshots/s2.png)
 
 ---
 
@@ -382,7 +382,7 @@ Create application.
 
 ### ArgoCD Application
 
-![ArgoCD Synced Application](screenshots/Screenshot%(204).png)
+![ArgoCD Synced Application](screenshots/s3.png)
 
 ---
 
